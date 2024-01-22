@@ -1,0 +1,6 @@
+datasets/
+mods/Collector/.gradle/
+mods/Collector/build/
+mods/Collector/out/
+mods/Collector/classes/
+mods/Collector/run/
